@@ -1,0 +1,39 @@
+.carousel slide{
+	height: 300px;
+}
+.d-block{
+	
+}
+.foot{
+    height: 150px;
+    background-color: brown;
+}
+.fot{
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+body{
+    background-color: #EAE7B4;
+}
+.sec{
+	margin: 0 4% 4% 4%;
+    padding: 2% 2% 2% 2%;
+    background-color: #F7BE81; 
+    border-radius: 60px 20px 80px 20px;
+}
+.cardp{
+	padding-left: 6%;	
+	padding-top: 5%; 
+    display: inline-block;
+}
+.cardb{
+    padding-left: 6%;
+    padding-top: 1%;
+    padding-right: 6%;
+}
+/* CONTATO */
+
+.cardcontato{
+    padding-top: 100px;
+}

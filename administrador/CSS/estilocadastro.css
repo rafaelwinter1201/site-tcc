@@ -1,0 +1,33 @@
+.imgA{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*  coloca a imagem como bloqueada na tela e centraliza*/
+.imgB{
+    position: sticky;/* n lembro */
+}
+body{
+    background-color: #ceecf6; /* coloca a cor de fundo da pagina */
+}
+.forma{
+    margin: 2% 4% 4% 4%;
+    padding: 2% 2% 2% 2%;/* espaçamento pro form não ficar colado no body */
+    background-color: #9fdcf1;/* coloca a cor de fundo do form, pra dar contraste*/ 
+    border-radius: 60px 20px 80px 20px;/* curva na borda */
+}
+.form-control{
+    width: 40%; /* n lembro */
+}
+table{
+    width: 100%;/* coloca a tabela em tamanho 100% */
+}
+body{
+    color:#585858; /* coloca a cor da fonte das palavras*/
+}
+.cardc{
+    padding: 9% 30% 20% 30%
+}
+.k{
+    text-align: right;
+}
